@@ -1,5 +1,5 @@
 ---
-title: "Share of people who say that are happy, 2010 to 2022"
+title: "Share of people who say they are happy, 2010 to 2022"
 output: 
   html_document:
     theme: united
