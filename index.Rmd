@@ -30,7 +30,7 @@ happiness <-
   rename(percent_happy = "Happiness: Happy (aggregate)")
 ```
 
-“Share of people who respond they are "very happy" or "rather happy" to the question "Taking all things together, would you say you are … ?"”
+“% of respondents replying "very happy" or "quite happy" when asked "Taking all things together, would you say you are very happy, quite happy, not very happy or not at all happy?"”
 
 # {.tabset}
 
